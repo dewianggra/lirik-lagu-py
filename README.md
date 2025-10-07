@@ -1,1 +1,1 @@
-# lirik-lagu-py
+# latihan python
